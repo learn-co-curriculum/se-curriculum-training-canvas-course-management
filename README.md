@@ -1,4 +1,4 @@
-# Courses Management
+# Blueprint Management
 
 ## Learning Goals
 
