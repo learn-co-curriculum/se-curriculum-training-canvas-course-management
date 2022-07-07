@@ -107,7 +107,7 @@ course and sync them.
 Use the [Canvas blueprint association guide][associating courses guide] to
 associate this blueprint with this empty student-facing course:
 
-- https://learning.flatironschool.com/courses/6034
+- https://learning.flatironschool.com/courses/6051
 
 Once you've successfully created the association, make an edit to one of the
 lessons in this blueprint course. Then, use this [blueprint syncing
