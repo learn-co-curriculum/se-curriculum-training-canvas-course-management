@@ -128,7 +128,7 @@ course.
   https://community.canvaslms.com/t5/Admin-Guide/How-do-I-associate-a-course-with-a-blueprint-course-as-an-admin/ta-p/183
 [blueprint syncing guide]:
   https://community.canvaslms.com/t5/Admin-Guide/How-do-I-sync-course-content-in-a-blueprint-course-as-an-admin/ta-p/171
-[canvas monday board]: https://flatiron.monday.com/boards/1329697069
+[canvas monday board]: https://flatiron.monday.com/boards/2372093654
 [global calendar]:
   https://docs.google.com/spreadsheets/d/1ZF0aGxftAIc9RvnR5Sz2o6iW4NfgSoKACpkfINZJZfk/edit#gid=0
 [live sub accounts]:
